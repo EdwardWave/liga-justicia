@@ -7,4 +7,4 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
-Este es un mensajaco editando en completo desde el GitHub Web
+Este es un mensajaco editando en completo desde el GitHub Web!!!!!!!!
